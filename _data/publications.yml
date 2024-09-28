@@ -1,22 +1,32 @@
 main:
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "An explanation for the prevalence of XY over ZW sex determination in species derived from hermaphroditism"
+    authors: "<strong>Thomas Lesaffre</strong>, John R. Pannell, Charles Mullon"
+    journal: "Proceedings of the National Academy of Sciences"
+    year: 2024
+    doi: https://doi.org/10.1073/pnas.2406305121
+    image: ./assets/img/pnas2024.png
+    pdf: ./assets/files/lesaffre2024_pnas.pdf
+    
+  - title: "Population-level consequences of inheritable somatic mutations and the evolution of mutation rates in plants"
+    authors: "<strong>Thomas Lesaffre</strong>"
+    journal: "Proceedings of the Royal Society B"
+    year: 2021
+    doi: https://doi.org/10.1098/rspb.2021.1127
+    image: ./assets/img/prsb2021.jpg
+    pdf: ./assets/files/lesaffre2021_prsb.pdf
+    
+  - title: "On Deleterious Mutations in Perennials: Inbreeding Depression, Mutation Load, and Life-History Evolution"
+    authors: "<strong>Thomas Lesaffre</strong>, Sylvain Billiard"
+    journal: "The American Naturalist"
+    year: 2021
+    doi: https://doi.org/10.1086/713499 
+    image: ./assets/img/amnat2021.png
+    pdf: ./assets/files/lesaffre2021_amnat.pdf
+    
+  - title: "The joint evolution of lifespan and self‐fertilization"
+    authors: "<strong>Thomas Lesaffre</strong>, Sylvain Billiard"
+    journal: "Journal of Evolutionary Biology"
+    year: 2020
+    doi: https://doi.org/10.1111/jeb.13543
+    image: ./assets/img/jeb2020.png
+    pdf: ./assets/files/lesaffre2020_jeb.pdf

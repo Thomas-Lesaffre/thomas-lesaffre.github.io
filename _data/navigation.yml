@@ -1,0 +1,11 @@
+main:
+
+  - title: "About me"
+    url: /about/
+    right: true 
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Home"
+    url: /
