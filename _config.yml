@@ -1,3 +1,9 @@
+# Language of the website
+lang: en
+encoding: UTF-8
+
+include: ["_pages"]
+
 # Basic Information 
 title: Thomas Lesaffre
 position: Postdoctoral researcher
@@ -6,7 +12,7 @@ email: thomas.lesaffre@unil.ch
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: evolution ecology sexual systems
+keywords: evolutionary theory quantitative traits sexual systems
 description: This is the personal page of Thomas Lesaffre, theoretical evolutionary biologist.
 canonical: https://minimal-light-theme.yliu.me/
 
@@ -18,13 +24,13 @@ twitter: https://twitter.com/Thomas_Lsffr
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/raton.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/thomas.jpeg
+favicon: ./assets/img/raton-emoji.png.svg
+favicon_dark: ./assets/img/raton-emoji.png.svg
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
