@@ -7,7 +7,7 @@
   height:2.4rem;
   width:2.4rem;
   background-color:transparent;
-  color:#043361!important;
+  color:#a2cb32!important;
   border-radius:100%;
   text-align:center;
   font-size:1.15rem;
@@ -141,16 +141,23 @@ img.rounded-corners {
 
 .icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
 
-autocolor{
-  color:#595959;
+body {
+    background-color: #20212b;
+    color: #dadbdf;
 }
 
+
+autocolor{
+  color:#dadbdf;
+}
+
+
 lightonly {
-  visibility: visible;
+  visibility: hidden;
 }
 
 darkonly {
-  visibility: hidden;
+  visibility: visible;
 }
 
 education {
@@ -234,24 +241,24 @@ papertitle {
 
 h3, h4, h5, h6 {
   font-weight: 600;
-  color:#043361;
+  color:#a2cb32;
   margin:0 0 20px;
 }
 
 h7 {
   font-weight: 600;
-  color:#043361;
+  color:#a2cb32;
   margin:0 0 10px;
 }
 
 h1 {
   font-weight: 500;
-  color:#043361;
+  color:#a2cb32;
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:#a2cb32;
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -280,7 +287,7 @@ h1 {
 }
 
 a {
-  color:#749222;
+  color:#a2cb32;
   text-decoration:none;
 }
 
@@ -380,7 +387,7 @@ header ul {
   list-style:none;
   height:40px;
   padding:0;
-  background: #f4f4f4;
+  background: #20212b;
   border-radius:5px;
   border:1px solid #e0e0e0;
   width:270px;
@@ -416,11 +423,11 @@ header ul a:hover {
 }
 
 header ul a:active {
-  background-color:#f0f0f0;
+  background-color:#20212b;
 }
 
 strong {
-  color:#222;
+  color:#eeeff0;
   font-weight:500;
 }
 
