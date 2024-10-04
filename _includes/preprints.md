@@ -3,7 +3,7 @@
 <div class="publications">
 <ol class="bibliography">
 
-<em> More stuff coming soon, stay tuned! &#127802; </em>
+&#127802; <em>More stuff coming soon, stay tuned!</em> &#127802;
 
 {% for link in site.data.preprints.main %}
 
