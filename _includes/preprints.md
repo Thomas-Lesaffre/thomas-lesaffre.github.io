@@ -3,8 +3,6 @@
 <div class="publications">
 <ol class="bibliography">
 
-&#127802; <em>More stuff coming soon, stay tuned!</em> &#127802;
-
 {% for link in site.data.preprints.main %}
 
 <li>
@@ -37,6 +35,9 @@
 <br>
 
 {% endfor %}
+
+&#127802; <em>More stuff coming soon, stay tuned!</em> &#127802;
+
 
 </ol>
 </div>
