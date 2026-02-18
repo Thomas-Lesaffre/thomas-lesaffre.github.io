@@ -4,5 +4,5 @@ main:
     journal: "BioRxiv"
     year: 2026
     doi: https://doi.org/10.64898/2026.02.15.705963
-    image: ./assets/img/lesaffre2026-conddep.svg
+    image: ./assets/img/lesaffre2026-conddep-2.svg
     pdf: ./assets/files/lesaffre2026-conditiondependentselfing-biorxiv.pdf
