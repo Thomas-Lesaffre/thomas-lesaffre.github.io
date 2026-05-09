@@ -20,7 +20,7 @@
       <div class="author">{{ link.authors }}</div>
       <div class="links">
            {% if link.notes %} 
-           <b> <i style="color:#a2cb32">{{ link.notes }}</i></b>
+           <b style="color:#a2cb32">{{ link.notes }}</b>
            {% endif %}
            {% if link.others %} 
            {{ link.others }}
