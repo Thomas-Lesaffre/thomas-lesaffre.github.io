@@ -8,10 +8,10 @@ main:
     pdf: ./assets/files/lesaffre2026-conditiondependentselfing-biorxiv.pdf
   
   - title: "Sexually antagonistic selection: a review of the theory and its implications"
-    authors: "Ewan Flintham<sup>🌼</sup>, <strong>Thomas Lesaffre<sup>🌼</sup></strong>, Sarah P. Otto, Charles Mullon"
+    authors: "Ewan Flintham<sup>🌸</sup>, <strong>Thomas Lesaffre<sup>🌸</sup></strong>, Sarah P. Otto, Charles Mullon"
     journal: "EcoEvoRxiv"
     year: 2026
     doi: https://doi.org/10.32942/X28M22
     image: ./assets/img/flintham_lesaffre2026-review.svg
     pdf: ./assets/files/flintham_lesaffre-review-ecoevorxiv.pdf
-    notes: "🌼: Joint first authors"
+    notes: "🌸: Joint first authors"
