@@ -18,16 +18,17 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}" target="_blank">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
+      <div class="links">
+           {% if link.notes %} 
+           <strong> <i style="color:#a2cb32">{{ link.notes }}</i></strong>
+           {% endif %}
+           {% if link.others %} 
+           {{ link.others }}
+           {% endif %}
+      </div>    
       <div class="periodical"><em>{{ link.journal }}</em>, {{ link.year }}</div>
       <div class="periodical"><a href="{{ link.doi }}">{{ link.doi }}</a></div>
-    <div class="links">
-      {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
-      {% endif %}
-      {% if link.others %} 
-      {{ link.others }}
-      {% endif %}
-    </div>
+   
   </div>
 </div>
 </li>
