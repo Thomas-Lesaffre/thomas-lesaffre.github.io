@@ -9,7 +9,7 @@ main:
   
   - title: "Sexually antagonistic selection: a review of the theory and its implicationsn"
     authors: "Ewan Flintham*, <strong>Thomas Lesaffre*</strong>, Sarah P. Otto, Charles Mullon"
-    journal: "BioRxiv"
+    journal: "EcoEvoRxiv"
     year: 2026
     doi: https://doi.org/10.32942/X28M22
     image: ./assets/img/flintham_lesaffre2026-review.svg
