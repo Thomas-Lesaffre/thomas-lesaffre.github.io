@@ -22,7 +22,7 @@
       <div class="periodical"><a href="{{ link.doi }}">{{ link.doi }}</a></div>
     <div class="links">
       {% if link.notes %} 
-      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      <strong> <i style="color:#a2cb32">{{ link.notes }}</i></strong>
       {% endif %}
       {% if link.others %} 
       {{ link.others }}
