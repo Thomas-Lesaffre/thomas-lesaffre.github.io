@@ -1,4 +1,21 @@
 main:
+  - title: "The evolution of condition-dependent self-fertilisation"
+    authors: "<strong>Thomas Lesaffre</strong>, John R. Pannell, Charles Mullon"
+    journal: "The American Naturalist (Accepted)"
+    year: 2026
+    doi: https://doi.org/10.64898/2026.02.15.705963
+    image: ./assets/img/lesaffre2026-conddep-2.svg
+    pdf: ./assets/files/lesaffre2026-conditiondependentselfing-biorxiv.pdf
+  
+  - title: "Sexually antagonistic selection: a review of the theory and its implications"
+    authors: "Ewan Flintham<sup>🍃</sup>, <strong>Thomas Lesaffre<sup>🍃</sup></strong>, Sarah P. Otto, Charles Mullon"
+    journal: "Philosophical Transactions of the Royal Society B (Accepted)"
+    year: 2026
+    doi: https://doi.org/10.32942/X28M22
+    image: ./assets/img/flintham_lesaffre2026-review.svg
+    pdf: ./assets/files/flintham_lesaffre-review-ecoevorxiv.pdf
+    notes: "🍃: Joint first authors"
+    
   - title: "The joint evolution of separate sexes and sexual dimorphism"
     authors: "<strong>Thomas Lesaffre</strong>, John R. Pannell, Charles Mullon"
     journal: "Journal of Evolutionary Biology"
