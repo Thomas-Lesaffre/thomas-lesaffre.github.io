@@ -1,9 +1,9 @@
 main:
-  - title: "The evolution of condition-dependent self-fertilisation"
+  - title: "The evolution of condition-dependent self-fertilization"
     authors: "<strong>Thomas Lesaffre</strong>, John R. Pannell, Charles Mullon"
-    journal: "The American Naturalist (Accepted)"
+    journal: "The American Naturalist"
     year: 2026
-    doi: https://doi.org/10.64898/2026.02.15.705963
+    doi: https://doi.org/10.1086/744167
     image: ./assets/img/lesaffre2026-conddep-2.svg
     pdf: ./assets/files/lesaffre2026-conditiondependentselfing-biorxiv.pdf
   
