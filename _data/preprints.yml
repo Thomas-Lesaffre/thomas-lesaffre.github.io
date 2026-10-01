@@ -1,2 +1,8 @@
 main:
-  
+  - title: "The evolutionary interplay between self-fertilisation and sex allocation in flowering plants"
+    authors: "<strong>Thomas Lesaffre</strong>, John R. Pannell, Charles Mullon"
+    journal: "Undergoing screening on BioRxiv"
+    year: 2026
+    doi: 
+    image: ./assets/img/lesaffre2026-sexallocselfing-illustration.png
+    pdf: ./assets/files/lesaffre2026-sexallocationselfing.pdf
