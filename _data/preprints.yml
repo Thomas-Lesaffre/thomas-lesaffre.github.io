@@ -6,3 +6,11 @@ main:
     doi: https://doi.org/10.64898/2026.10.01.755674 
     image: ./assets/img/lesaffre2026-sexallocselfing-illustration.png
     pdf: ./assets/files/lesaffre2026-sexallocationselfing.pdf
+
+  - title: "The effects of selfing, limited seed dispersal and environmental persistence on the evolution of size-dependent sex allocation"
+    authors: "Samuel Michel, Charles Mullon, <strong>Thomas Lesaffre</strong>"
+    journal: "BioRxiv"
+    year: 2026
+    doi: https://doi.org/...
+    image: ./assets/img/michel2026_illustration.png
+    pdf: ./assets/files/michel2026_sizedep.pdf
