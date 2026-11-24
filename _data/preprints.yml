@@ -11,6 +11,6 @@ main:
     authors: "Samuel Michel, Charles Mullon, <strong>Thomas Lesaffre</strong>"
     journal: "BioRxiv"
     year: 2026
-    doi: https://doi.org/...
+    doi: https://doi.org/10.64898/2026.11.23.768536
     image: ./assets/img/michel2026_illustration.png
     pdf: ./assets/files/michel2026_sizedep.pdf
